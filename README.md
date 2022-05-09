@@ -1,5 +1,4 @@
 # XLSX - MongoDB
-![Bild 09 05 22 um 14 57](https://user-images.githubusercontent.com/48386066/167417445-f7f236ee-69e1-46e4-b0c9-2ec98af0cc70.jpg)
 
 ## 1. Step: Create an account on (MongoDB)[https://www.mongodb.com] (Sign-Up with your own e-mail. Try not to sign-up with Google)
 ![Bild 09 05 22 um 14 54](https://user-images.githubusercontent.com/48386066/167417340-559b3405-5196-4db5-a845-f2a4e1492a35.jpg)
